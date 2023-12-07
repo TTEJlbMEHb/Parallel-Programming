@@ -1,0 +1,14 @@
+D:\Паралельні\4\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\Паралельні\4\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\Паралельні\4\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\Паралельні\4\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+D:\Паралельні\4\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MainForm.resources
+D:\Паралельні\4\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\Паралельні\4\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\Паралельні\4\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\Паралельні\4\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\Паралельні\4\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\Паралельні\4\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MovingFigure.resources
+D:\Паралельні\4\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.BallForm.resources
+D:\Паралельні\4\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FireForm.resources
+D:\Паралельні\4\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.SinForm.resources
